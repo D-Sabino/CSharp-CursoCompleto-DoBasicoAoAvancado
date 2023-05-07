@@ -15,7 +15,7 @@
 
 
 ## Seções:
-- [ ] Seção 01: Introdução <br>
+- [x] Seção 01: Introdução <br>
 - [ ] Seção 02: Configuração do ambiente <br>
 - [ ] Seção 03: Fundamentos <br>
 - [ ] Seção 04: Estruturas de Controle <br>
