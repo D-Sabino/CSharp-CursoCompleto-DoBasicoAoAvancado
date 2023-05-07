@@ -16,7 +16,7 @@
 
 ## Seções:
 - [x] Seção 01: Introdução <br>
-- [ ] Seção 02: Configuração do ambiente <br>
+- [x] Seção 02: Configuração do ambiente <br>
 - [ ] Seção 03: Fundamentos <br>
 - [ ] Seção 04: Estruturas de Controle <br>
 - [ ] Seção 05: Classes & Métodos<br>
