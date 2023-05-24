@@ -23,7 +23,6 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine("Comprou a tv 32? {0}", comprouTv32);
 
             Console.WriteLine("Mais saudavel? {0}", !comprouSorvete);
-
         }
     }
 }
